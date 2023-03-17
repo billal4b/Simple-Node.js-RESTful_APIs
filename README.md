@@ -1,6 +1,6 @@
 # Build a Simple Node.js RESTful APIs
 
-## HTTP methods
+## HTTP Methods
 
 Following four HTTP methods are commonly used in REST based architecture.
 
@@ -12,7 +12,7 @@ DELETE - This is used to remove a resource.
 POST - This is used to update a existing resource or create a new resource.
 ```
 
-## URL
+## URL (Hit to postman)
 
 ```php
 1.action : GET, url: http://localhost:3000/listUsers
